@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Julien !  
 
-<!--
-**julber95/julber95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Double Bachelor's in AI & Organizational Sciences - Dauphine**  
+💡 Passionate about **computer science, machine learning, and deep learning**  
+💻 Exploring learning algorithms and their real-world applications  
 
-Here are some ideas to get you started:
+### 🚀 What You'll Find Here  
+- 📊 Projects in **machine learning, deep learning, and data science**  
+- 🏗️ Experiments in **programming and modeling**  
+- 📚 Studies and notes on AI concepts  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats  
+
+![Julber95's GitHub Stats](https://github-readme-stats.vercel.app/api?username=julber95&show_icons=true&theme=radical)  
+
+📫 **Get in Touch**: julien.bernardi-pellegrino@dauphine.eu 
