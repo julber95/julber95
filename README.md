@@ -1,4 +1,4 @@
-## Hi, I'm Julien !  
+## Hi, I'm Julien!  
 
 🎓 **Double Bachelor's in AI & Organizational Sciences - Dauphine**  
 💡 Passionate about **computer science, machine learning, and deep learning**  
