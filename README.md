@@ -5,9 +5,9 @@
 💻 Exploring learning algorithms and their real-world applications  
 
 ###  What You'll Find Here  
-- 📊 Projects in **machine learning, deep learning, and data science**  
-- 🏗️ Experiments in **programming and modeling**  
-- 📚 Studies and notes on AI concepts  
+-  Projects in **machine learning, deep learning, and data science**  
+- Experiments in **programming and modeling**  
+- Studies and notes on AI concepts  
 
 
 📫 **Get in Touch**: julien.bernardi-pellegrino@dauphine.eu 
