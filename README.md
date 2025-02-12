@@ -21,13 +21,13 @@
 Here are some of my most accomplished projects:
 
 🔹 **[Enhancing GANs with Discriminator Rejection Sampling](https://github.com/julber95/gan-drs-enhancement-DL)**  
-Worked on **improving GANs** by implementing **Discriminator Rejection Sampling (DRS)** and **adaptive soft truncation**. This technique enhanced sample quality and diversity in generated images.
+Worked on **improving GANs** by implementing **Discriminator Rejection Sampling (DRS)** and **adaptive  truncation**. This technique enhanced sample quality and diversity in generated images.
 
 🔹 **[Fraud Detection using Machine Learning](https://github.com/julber95/fraud-detection-ML)**  
 Developed a **fraud detection model** using **Gradient Boosting** and **Random Forest** to analyze transaction data. Achieved **1st place** in the **ENS Challenge Data competition** with an optimized **Precision-Recall AUC score**.
 
 🔹 **[Real Estate Price Prediction](https://github.com/julber95/house-price-prediction-ML)**  
-Built a predictive model for estimating real estate prices based on structured data. Implemented advanced **feature engineering** and **XGBoost optimization**, improving prediction accuracy by **30%**.
+Built a predictive model for estimating real estate prices based on structured data. Implemented advanced **feature engineering** and **XGBoost optimization**.
 
 ---
 
