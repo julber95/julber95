@@ -17,5 +17,5 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 
-📫 **Get in Touch**: 
-[LinkedIn](https://www.linkedin.com/in/julien-bernardi-746140252/) | ✉️ [Email](mailto:julien.bernardi-pellegrino@dauphine.eu)
+✉️ **Get in Touch**: 
+[LinkedIn](https://www.linkedin.com/in/julien-bernardi-746140252/) | [Email](mailto:julien.bernardi-pellegrino@dauphine.eu)
