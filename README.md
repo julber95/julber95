@@ -18,7 +18,7 @@ Exploring learning algorithms and their real-world applications
 
 ### 📌 Featured Projects
 
-Here are some of my most accomplished projects:
+Here are some of my projects:
 
 🔹 **[Enhancing GANs with Discriminator Rejection Sampling](https://github.com/julber95/gan-drs-enhancement-DL)**  
 Worked on **improving GANs** by implementing **Discriminator Rejection Sampling (DRS)** and **adaptive  truncation**. This technique enhanced sample quality and diversity in generated images.
