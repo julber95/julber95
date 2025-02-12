@@ -16,6 +16,23 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
+### 📌 Featured Projects
+
+Here are some of my most accomplished projects:
+
+🔹 **[Fraud Detection using Machine Learning](https://github.com/julber95/fraud-detection-ML)**  
+Developed a **fraud detection model** using **Gradient Boosting** and **Random Forest** to analyze transaction data. Achieved **1st place** in the **ENS Challenge Data competition** with an optimized **Precision-Recall AUC score**.
+
+🔹 **[Real Estate Price Prediction](https://github.com/julber95/house-price-prediction-ML)**  
+Built a predictive model for estimating real estate prices based on structured data. Implemented advanced **feature engineering** and **XGBoost optimization**, improving prediction accuracy by **30%**.
+
+🔹 **[Enhancing GANs with Discriminator Rejection Sampling](https://github.com/julber95/gan-drs-enhancement-DL)**  
+Worked on **improving GANs** by implementing **Discriminator Rejection Sampling (DRS)** and **adaptive soft truncation**. This technique enhanced sample quality and diversity in generated images.
+
+🔹 **[Your Other Project](https://github.com/yourusername/your-other-project)**  
+[Brief description of another important project, highlighting key results and techniques used.]
+
+---
 
 ✉️ **Get in Touch**: 
 [LinkedIn](https://www.linkedin.com/in/julien-bernardi-746140252/) | [Email](mailto:julien.bernardi-pellegrino@dauphine.eu)
