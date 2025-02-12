@@ -1,6 +1,6 @@
 ## Hi, I'm Julien!  
 
-**Double Bachelor's in AI & Organizational Sciences - Dauphine**  
+**Double Bachelor's in AI & Economy - Dauphine**  
 Passionate about **computer science, machine learning, and deep learning**  
 Exploring learning algorithms and their real-world applications  
 
