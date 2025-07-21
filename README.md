@@ -29,7 +29,7 @@ Developed a **fraud detection model** using **Gradient Boosting** and **Random F
 🔹 **[Real Estate Price Prediction](https://github.com/julber95/house-price-prediction-ML)**  
 Built a predictive model for estimating real estate prices based on structured data. Implemented advanced **feature engineering** and **XGBoost optimization**.
 
-🔹 **[Lymph Node Metastasis Detection – ENS Challenge Data ](https://challengedata.ens.fr/participants/challenges/18/)** *(Ongoing – May 2024)*  
+🔹 **[Lymph Node Metastasis Detection – ENS Challenge Data ](https://challengedata.ens.fr/participants/challenges/18/)** *(May 2025)*  
 Participating in the **ENS Challenge Data**, working on **automated detection of lymph node metastases in breast cancer patients** using **histological images**. Exploring **machine learning and deep learning techniques** to improve classification performance and assist in cancer diagnosis.  
 
 ---
