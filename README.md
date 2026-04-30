@@ -1,7 +1,6 @@
 ## Hi, I'm Julien!  
 
 Passionate about **computer science, machine learning, and deep learning**  
-Exploring learning algorithms and their real-world applications  
 
 ###  What You'll Find Here  
 -  Projects in **machine learning, deep learning, and data science**  
