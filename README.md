@@ -1,7 +1,3 @@
-## Hi, I'm Julien!  
-
-Passionate about **computer science, machine learning, and deep learning**  
-
 ###  What You'll Find Here  
 -  Projects in **machine learning, deep learning, and data science**  
 - Experiments in **programming and modeling**  
